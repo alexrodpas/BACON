@@ -1,7 +1,7 @@
 # BACON
 BACON: Deep-Learning Powered AI for Poetry Generation with Author Linguistic Style Transfer
 
-_Note: code is right now under revision, it'll be uploaded shortly._
+_Note: This project is in heavy maintenance until further notice. Code is right now under revision, it'll be uploaded shortly._
 
 **BACON** (**B**asic **A**I for **C**ollaborative p**O**etry writi**N**g) is a project on _computational linguistics_ that I developed during my Junior high school year.
 
