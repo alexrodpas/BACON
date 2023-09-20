@@ -7,7 +7,7 @@ Click on any of the following titles:
 2. [I think I want to be a summer afternoon](https://github.com/alexrodpas/BACON/tree/master/output/Jefferson_Robins/I_think_I_want_to_be_a_summer_afternoon.md)
 3. [Prophet](https://github.com/alexrodpas/BACON/tree/master/output/Jefferson_Robins/Prophet.md)
 4. [The ancient grammar clock](https://github.com/alexrodpas/BACON/tree/master/output/Jefferson_Robins/The_ancient_grammar_clock.md)
-5. [The dead who walked the world to East](https://github.com/alexrodpas/BACON/tree/master/output/Jefferson_Robins/The_dead_who_walked_the_world_to_East.md)
+5. [The dead who walk the world to East](https://github.com/alexrodpas/BACON/tree/master/output/Jefferson_Robins/The_dead_who_walk_the_world_to_East.md)
 6. [The desolation of time](https://github.com/alexrodpas/BACON/tree/master/output/Jefferson_Robins/The_desolation_of_time.md)
 7. [The fourth of July](https://github.com/alexrodpas/BACON/tree/master/output/Jefferson_Robins/The_fourth_of_July.md)
 8. [The mustard-bloom of gold](https://github.com/alexrodpas/BACON/tree/master/output/Jefferson_Robins/The_mustard-bloom_of_gold.md)
