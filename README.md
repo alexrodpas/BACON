@@ -1,5 +1,4 @@
-# BACON
-BACON: Deep-Learning Powered AI for Poetry Generation with Author Linguistic Style Transfer
+# BACON: Deep-Learning Powered AI for Poetry Generation with Author Linguistic Style Transfer
 
 **BACON** (**B**asic **A**I for **C**ollaborative p**O**etry writi**N**g) is a project on _computational linguistics_ / _Natural Language Processing (NLP)_ that I developed during my Junior high school year. I implemented it __before__ the "Transformers era", since at that time (circa September 2017) I was not aware of the work on Transformer architecture -the seminal paper by Vaswami et al. (2017) would be presented just a few months later at the 2017 NeurIPS conference-, and in any case, there were no pre-trained language models available based on Transformers (How things have changed in the last 5 years!).
 
